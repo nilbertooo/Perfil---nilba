@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
+body {
+  background-color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  color: darkred;
+  width: 80%;
+  height: 80%;
+}
+.imgPdr {
+  width: 40px;
+  list-style-type: none;
+}
+
+.rg {
+  padding: 1px; 
+  display: inline-block;
+}
+
+#rgb {
+  width: 50px;
+  
+}
+
+h1 {
+  line-height:30px;
+  word-spacing: 17px;
+}
+
+.homie{
+  padding-top: 10%;
+  border: 5px solid black;
+  background-image: url(https://gifs.eco.br/wp-content/uploads/2021/09/gifs-da-bandeira-do-vasco-3.gif);
+  background-repeat: no-repeat;
+  background-size: 22%;
+  background-position-x: 64%;
+  background-position-y: 20%;
+  background-color: darkgray;
+  width: 1511px;
+  height: 575px;
+  display: inline-block;
+  text-align: center;
+}
+
+.lols {
+  list-style-type: none;
+}
+
+.sexos {
+  text-align: center;
+  list-style-type: none;
+}
+
+.aTxt, a{
+  border: 1px solid red;
+  border-radius: 6px;
+  background-color: gray;
+  list-style-type: none;
+}
+
+.about, .ponto{
+  list-style-type: none;
+  padding-right: 2%;
+  text-align: center;
+}
+
+.ponto {
+  padding-right: 4.5%;
+}
